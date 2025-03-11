@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\bin\Debug\net9.0\Lista001_Exercicio02.exe
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\bin\Debug\net9.0\Lista001_Exercicio02.deps.json
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\bin\Debug\net9.0\Lista001_Exercicio02.runtimeconfig.json
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\bin\Debug\net9.0\Lista001_Exercicio02.dll
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\bin\Debug\net9.0\Lista001_Exercicio02.pdb
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.AssemblyInfo.cs
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.sourcelink.json
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.dll
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\refint\Lista001_Exercicio02.dll
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.pdb
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\Lista001_Exercicio02.genruntimeconfig.cache
+C:\Users\nicky\Desktop\Lista001\Lista001_Exercicio02\obj\Debug\net9.0\ref\Lista001_Exercicio02.dll
